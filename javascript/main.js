@@ -2,7 +2,7 @@ var perClick = 1.0;
 var multiplier = 1.0;
 var total = 0;
 var totalClicks = 0;
-var totalDisplay = "Aucun click";
+document.title = "Aucun click";
 
 function addValue() {
 	total = total + perClick * multiplier;
