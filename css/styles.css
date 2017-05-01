@@ -15,7 +15,7 @@
 	
 	p {
 		font-size: 20px;
-		color: white;
+		color: red;
         	font-family: 'Arial Black';
 		text-align: center;
     	}
@@ -23,7 +23,7 @@
 	h1 {
 		font-size: 100px;
 		font-family: 'Arial Black';
-		color: white;
+		color: blue;
 		text-align: center;
 	}
 	
