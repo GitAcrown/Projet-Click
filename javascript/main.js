@@ -6,10 +6,9 @@ var totalClicks = 0;
 function addValue() {
 	total = total + perClick * multiplier;
 	totalClicks ++;
-	document.title = totalClicks + " Clicks au total";
+	document.title = totalClicks + " Clicks au total">"Aucun click"<;
 	var totalDisplay = document.getElementById("total-display");
 	totalDisplay.innerHTML = total;
-	audio.volume = 1.0;
 }
 
 function main() {
