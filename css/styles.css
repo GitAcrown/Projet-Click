@@ -15,15 +15,15 @@
 	
 	p {
 		font-size: 20px;
-		color: yellow;
-        	font-family: 'comic sans ms';
+		color: black;
+        	font-family: 'Times New Roman';
 		text-align: center;
     	}
     	
 	h1 {
 		font-size: 100px;
-		font-family: 'comic sans ms';
-		color: yellow;
+		font-family: 'Times New Roman';
+		color: black;
 		text-align: center;
 	}
 	
@@ -35,8 +35,8 @@
 	}
 	
     .upgrades {
-	    border-top-color: yellow;
+	    border-top-color: blue;
 		border-width: 2px;
-		border-bottom-color: orange;
+		border-bottom-color: red;
 	}
 
